@@ -1,0 +1,86 @@
+[
+    {
+        "id":0,
+        "name":"Arches",
+        "url":"assets/images/arches.jpeg",
+        "count":0,
+        "fact": "Arches National Park has over 2,000 natural stone arches."
+    },
+    {
+        "id":1,
+        "name":"Denali",
+        "url":"assets/images/denali.jpg",
+        "count":0,
+        "fact":"Denali's peak is 20,310 feet above sea level, making it the highest mountain in North America."
+    },
+    {
+        "id":2,
+        "name":"Everglades",
+        "url":"assets/images/everglades.jpg",
+        "count":0,
+        "fact":"The Everglades are home to thirteen endangered and ten threatened species."
+    },
+    {
+        "id":3,
+        "name":"Glacier",
+        "url":"assets/images/glacier.jpg",
+        "count":0,
+        "fact": "There are 762 lakes in Glacier National Park."
+    },
+    {
+        "id":4,
+        "name":"Grand Canyon",
+        "url":"assets/images/grandcanyon.jpg",
+        "count":0,
+        "fact": "The Grand Canyon was carved over some 6 million years."
+    },
+    {
+        "id":5,
+        "name":"Ise Royal",
+        "url":"assets/images/isleroyal.jpg",
+        "count":0,
+        "fact": "Isle Royal is the least visited park in the United States."
+    },
+    {
+        "id":6,
+        "name":"Olympic",
+        "url":"assets/images/olympic.jpg",
+        "count":0,
+        "fact":"Olympic protects a region of the North America’s remaining temperate rain forests."
+    },
+    {
+        "id":7,
+        "name":"rockymountain",
+        "url":"assets/images/rockymountain.jpg",
+        "count":0,
+        "fact":"30% of Rocky Mountain National Park is above the tree line."
+    },
+    {
+        "id":8,
+        "name":"Smoky Mountains",
+        "url":"assets/images/smokymountains.jpg",
+        "count":0,
+        "fact":"Great Smoky Mountains National Park runs through Tennessee and North Carolina."
+    },
+    {
+        "id":9,
+        "name":"Yellowstone",
+        "url":"assets/images/yellowstone.jpeg",
+        "count":0,
+        "fact":"Yellowstone was the first designated National Park."
+    },
+    {
+        "id":10,
+        "name":"Yosemite",
+        "url":"assets/images/yosemite.jpeg",
+        "count":0,
+        "fact":"The Ahwaneechee Native Americans lived in the Yosemite Valley for at least 4,000 years."
+    },
+    {
+        "id":11,
+        "name":"Zion",
+        "url":"assets/images/zion.jpeg",
+        "count":0,
+        "fact":"289 species of birds live in Zion National Park."
+    }
+]

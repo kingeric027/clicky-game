@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+.park-div {
+  height: 170px;
+  width:170px;
+  background-size: cover;
+  margin: 5px;
+  cursor: pointer;
+  border: 3px solid darkgray;
+  border-radius: 8px;
+}
+
+.park-div:hover {
+  border: 3px solid forestgreen;
+}
+
+/*
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
@@ -30,3 +45,4 @@
     transform: rotate(360deg);
   }
 }
+*/

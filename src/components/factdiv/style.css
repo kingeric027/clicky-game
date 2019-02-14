@@ -1,0 +1,14 @@
+.fact-div p{
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+    vertical-align: middle; 
+    margin: 5px;
+    
+}
+
+.fact-div{
+    
+    overflow: auto;
+
+}
